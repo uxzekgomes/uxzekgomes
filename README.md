@@ -63,9 +63,10 @@ From discovery to delivery, I collaborate closely with **product, engineering, a
 
 ## 📌 Current work
 
-I’m currently **open to new opportunities** in the market, seeking roles where I can contribute as a **Senior Product Designer** on complex digital products.
+I’m currently **open to new opportunities** in the market, including **full-time roles and consulting engagements**, where I can contribute as a **Senior Product Designer** on complex digital products.
 
-I’m especially interested in projects that sit at the intersection of **product strategy, UX, and artificial intelligence**, where design plays a key role in decision-making, scalability, and measurable business impact.
+I work with teams as a **design consultant**, supporting projects from discovery to delivery and helping organizations structure decisions around **UX, product strategy, and artificial intelligence**. My focus is on reducing complexity, enabling scalability, and delivering measurable business impact.
+
 
 ---
 
