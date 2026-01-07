@@ -63,12 +63,9 @@ From discovery to delivery, I collaborate closely with **product, engineering, a
 
 ## 📌 Current work
 
-- **UX/UI Design Consultant**  
-  Working on a **Learning Management System powered by AI**, focused on improving learning experiences and decision-making for students.
+I’m currently **open to new opportunities** in the market, seeking roles where I can contribute as a **Senior Product Designer** on complex digital products.
 
-- **Personal Portfolio**  
-  Product Design, UX/UI, Design Systems, and data-driven digital products  
-  👉 https://ezequielgomes.com
+I’m especially interested in projects that sit at the intersection of **product strategy, UX, and artificial intelligence**, where design plays a key role in decision-making, scalability, and measurable business impact.
 
 ---
 
