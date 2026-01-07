@@ -38,9 +38,15 @@ From discovery to delivery, I collaborate closely with **product, engineering, a
 - Prototyping, Testing & Validation  
 - Design Systems (components, tokens, scalability)
 
+### Digital Products
+- Websites, portals, and content-driven platforms  
+- Web and mobile applications  
+- Internal systems, dashboards, and admin tools  
+- End-to-end product design, from concept to launch
+
 ### AI & Development
 - AI-augmented design workflows  
-- Decision-support systems  
+- Decision-support and intelligent systems  
 - Front-end engineering (component-based UI)  
 - Automation and AI-assisted tools
 
