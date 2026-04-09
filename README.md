@@ -1,18 +1,3 @@
-<!--
-**uxzekgomes/uxzekgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Zek Gomes
 
 **Senior Product Designer**  
@@ -24,7 +9,7 @@ Designing intelligent, human-centered digital products.
 
 I’m a **Senior Product Designer** with **14+ years of experience in design** and **5+ years focused on product design**, working on complex digital products at scale.
 
-I help teams design and launch products where **artificial intelligence is part of the decision-making process**, not just a feature.  
+I design and deliver products where **artificial intelligence is part of the decision-making process**, not just a feature.  
 From discovery to delivery, I collaborate closely with **product, engineering, and data teams** to transform complex systems — including **AI models, automation workflows, and data insights** — into **clear, intuitive, and scalable user experiences**.
 
 ---
@@ -44,11 +29,12 @@ From discovery to delivery, I collaborate closely with **product, engineering, a
 - Internal systems, dashboards, and admin tools  
 - End-to-end product design, from concept to launch
 
-### AI & Development
-- AI-augmented design workflows  
-- Decision-support and intelligent systems  
-- Front-end engineering (component-based UI)  
-- Automation and AI-assisted tools
+### AI-Driven Development
+- Designing and implementing AI-powered workflows and intelligent systems  
+- Front-end engineering with scalable, component-based architectures  
+- Automation using AI-assisted tools and coding agents  
+- Augmented design workflows integrating AI into product cycles  
+- Data-driven decision making to optimize product outcomes  
 
 ---
 
@@ -58,28 +44,29 @@ From discovery to delivery, I collaborate closely with **product, engineering, a
 - Figma · Miro · Hotjar · Analytics · Notion
 
 **Development**
-- React · Next.js · Web Apps  
+- React · Next.js · Web Applications  
 - HTML · CSS · JavaScript · TypeScript
 
 **AI & Workflow**
-- VS Code · GitHub Copilot  
-- Claude Sonnet · Lovable · Antigravity  
+- Development Environment: VS Code · GitHub  
+- AI Coding Agents: Claude · GitHub Copilot · OpenAI Codex  
+- AI Product Builders: Lovable · Antigravity  
 
 ---
 
 ## 📌 Current work
 
-I’m currently **open to new opportunities** in the market, including **full-time roles and consulting engagements**, where I can contribute as a **Senior Product Designer** on complex digital products.
+I’m currently **open to new opportunities**, including **full-time roles and consulting engagements**, where I can contribute as a **Senior Product Designer** on complex digital products.
 
-I work with teams as a **design consultant**, supporting projects from discovery to delivery and helping organizations structure decisions around **UX, product strategy, and artificial intelligence**. My focus is on reducing complexity, enabling scalability, and delivering measurable business impact.
-
+I work with teams as a **design consultant**, supporting projects from discovery to delivery and helping organizations structure decisions around **UX, product strategy, and artificial intelligence**.  
+My focus is on reducing complexity, enabling scalability, and delivering measurable business impact.
 
 ---
 
 ## 🌍 Languages
 
 - Portuguese — Native  
-- English — Professional working proficiency (Intermediate)
+- English — Professional working proficiency  
 
 ---
 
